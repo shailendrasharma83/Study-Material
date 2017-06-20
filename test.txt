@@ -5,5 +5,6 @@ commit 3 of base branch
 commit 4 of my-branch
 commit 5 of base branch
 commit 6 of base branch
+commit 7 of my-branch
 commit 8 of base branch
 commit 9 of base branch
